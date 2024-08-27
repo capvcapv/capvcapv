@@ -1,9 +1,9 @@
-﻿# Hola, soy Carlos Alberto Palacios Vargas(https://github.com/username)
+﻿# Hola, soy Carlos Alberto Palacios Vargas(https://github.com/capvcapv)
 
 ## 👨‍💻 Tecnología
 
 - 🛠️ Lenguajes y Herramientas: C#, Java, etc.
-- 💬 Pregúntame sobre: Desarrollo web, Machine Learning, etc.
+- 💬 Pregúntame sobre: No se.
 
 ## 📈 Estadísticas
 
